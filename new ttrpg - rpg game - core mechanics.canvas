@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"fc5c55d5b565defb","type":"group","x":520,"y":-360,"width":771,"height":721,"label":"Downtime & Non-Combat Activities"},
+		{"id":"f712772a6622f09c","type":"text","text":"Magic / Powers","x":-120,"y":-920,"width":260,"height":80},
+		{"id":"2b41961de60b6221","type":"text","text":"Initiative / turn order","x":340,"y":-920,"width":260,"height":80},
+		{"id":"21e2c9615544f332","type":"text","text":"Dice rolling","x":-340,"y":-760,"width":260,"height":80},
+		{"id":"c9a84d2c339b5f63","type":"file","file":"hp-ttrpg/Theme & Settings.md","x":140,"y":-1780,"width":920,"height":280},
+		{"id":"2f6527f2c450d53c","type":"text","text":"Success levels","x":740,"y":-900,"width":260,"height":80},
+		{"id":"009f2fd170b8ffe5","type":"text","text":"Failure / Consequences","x":900,"y":-740,"width":360,"height":140},
+		{"id":"ee8a6462cbc30d25","type":"text","text":"Teamwork","x":280,"y":-700,"width":260,"height":80},
+		{"id":"cc0ab2f9a629662d","type":"text","text":"Social interaction","x":-440,"y":-460,"width":260,"height":80},
+		{"id":"c9e532ff13adf9bd","type":"text","text":"Skill checks","x":811,"y":-348,"width":260,"height":80},
+		{"id":"d284519434bd21cd","type":"text","text":"Stealth","x":-320,"y":-280,"width":140,"height":80},
+		{"id":"00b2fd1a3b2fb0f4","type":"text","text":"Narrative Control\n\nadvantages / spend points","x":900,"y":-200,"width":360,"height":140},
+		{"id":"9bef67cc85297bc0","type":"text","text":"Character advancement","x":600,"y":-180,"width":240,"height":100},
+		{"id":"d3e67cfb84aea53e","type":"text","text":"Conditions / Status effects","x":791,"y":52,"width":260,"height":80},
+		{"id":"0eda541c9ed76f4a","type":"text","text":"Combat","x":-200,"y":120,"width":220,"height":98},
+		{"id":"c22048a11c7818d5","type":"text","text":"Items","x":180,"y":160,"width":180,"height":138},
+		{"id":"68143a3fc0d4286f","type":"text","text":"Crafting","x":600,"y":240,"width":200,"height":80}
+	],
+	"edges":[]
+}
