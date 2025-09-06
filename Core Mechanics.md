@@ -16,6 +16,20 @@ All actions in the game use a **d20 + Attribute + Skill** system:
 - **Hard (DN 16)**: Challenging even for skilled individuals
 - **Heroic (DN 20)**: Extremely difficult, requires mastery
 
+#### Success Probability by Bonus
+| Total Bonus* | DN 8 | DN 12 | DN 16 | DN 20 |
+|-------------|------|-------|-------|-------|
+| +1 (Min)    | 60%  | 20%   | 0%    | 0%    |
+| +2          | 65%  | 25%   | 0%    | 0%    |
+| +3          | 70%  | 30%   | 0%    | 0%    |
+| +4          | 75%  | 35%   | 5%    | 0%    |
+| +5          | 80%  | 40%   | 10%   | 0%    |
+| +6          | 85%  | 45%   | 15%   | 0%    |
+| +7          | 90%  | 50%   | 20%   | 5%    |
+| +8 (Max)    | 95%  | 55%   | 25%   | 10%   |
+
+*Total Bonus = Attribute (1-5) + Skill (0-3)
+
 ## Stress and Learning
 Characters have a **Stress** level (0-10) that affects their performance:
 - **Low Stress (0-3)**: +1 bonus to all rolls
@@ -26,12 +40,15 @@ Characters have a **Stress** level (0-10) that affects their performance:
 Stress increases from:
 - Failing spell attempts (+1)
 - Dangerous situations (+1-3)
-- Social pressure (+1)
+- Physical exhaustion (+1)
+- Time pressure (+1)
+- Witnessing magical phenomena (+1 for first-year students)
 
 Stress decreases from:
 - Successful spell casting (-1)
 - Rest and downtime (-2)
-- Positive social interactions (-1)
+- Completing goals (-1)
+- Magical discoveries (-1)
 
 ## Magic and Mundane Balance
 - **Mundane Skills**: Always available, represent pre-magical knowledge
